@@ -3,13 +3,6 @@ Installer Link - `@import url(https://cdn.jsdelivr.net/gh/MakD/zombie-release@la
 
 Color Schemes (Add below the first import. **Apart** from Amazon Prime, and netflix _somewhat_ all schemes look ugly and need to be fixed. Old color schemes [hidden below](https://github.com/MakD/zombie-release/tree/main#color-palettes), and the ones from Zesty are still compatible)
 
-- Amazon Prime - `@import url(https://cdn.jsdelivr.net/gh/MakD/zombie-release@latest/color-schemes/amazon-prime.css);`
-- AppleTV - `@import url(https://cdn.jsdelivr.net/gh/MakD/zombie-release@latest/color-schemes/apple-tv.css);`
-- Disney - `@import url(https://cdn.jsdelivr.net/gh/MakD/zombie-release@latest/color-schemes/disney.css);`
-- HBO Max - `@import url(https://cdn.jsdelivr.net/gh/MakD/zombie-release@latest/color-schemes/hbo-max.css);`
-- Hulu - `@import url(https://cdn.jsdelivr.net/gh/MakD/zombie-release@latest/color-schemes/hulu.css);`
-- Netflix - `@import url(https://cdn.jsdelivr.net/gh/MakD/zombie-release@latest/color-schemes/netflix.css);`
-- Youtube - `@import url(https://cdn.jsdelivr.net/gh/MakD/zombie-release@latest/color-schemes/youtube.css);`
 
 
 Obsolete Info Below, Readme/Screenshots to be updated later
